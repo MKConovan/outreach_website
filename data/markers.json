@@ -1,0 +1,142 @@
+{
+  "IDEA Rundberg": [
+    {
+      "lat": 30.36082499841799,
+      "lng": -97.6873900235942,
+      "data": "9504 N Interstate 35 Frontage Rd, Austin, TX 78753",
+      "link": "<b>Front Office</b><iframe src='https://www.google.com/maps/embed?pb=!4v1727811793163!6m8!1m7!1sjYZco7eem_62DEk6biTphg!2m2!1d30.36061742320469!2d-97.68696895924872!3f303.3880466829595!4f-9.737809760095175!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    {
+      "lat": 30.36092499841799,
+      "lng": -97.6872900235942,
+      "data": "9505 N Interstate 35 Frontage Rd, Austin, TX 78753",
+      "file": "file1_1.txt"
+    },
+    {
+      "lat": 30.36072499841799,
+      "lng": -97.6874900235942,
+      "data": "9503 N Interstate 35 Frontage Rd, Austin, TX 78753",
+      "file": "file1_2.txt"
+    }
+  ],
+  "IDEA Health Professions": [
+    {
+      "lat": 30.2737472,
+      "lng": -97.6749357,
+      "data": "5816 Wilcab Rd, Austin, TX 78721",
+      "link": "<b>Front Office</b><iframe src='https://www.google.com/maps/embed?pb=!4v1727812335698!6m8!1m7!1sQpTQOwxfFkDtRtfC3UZE6g!2m2!1d30.27341186723067!2d-97.6753574208936!3f30.39670625047456!4f-14.193543656983735!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    {
+      "lat": 30.2738472,
+      "lng": -97.6748357,
+      "data": "5817 Wilcab Rd, Austin, TX 78721",
+      "file": "file2_1.txt"
+    },
+    {
+      "lat": 30.2736472,
+      "lng": -97.6750357,
+      "data": "5815 Wilcab Rd, Austin, TX 78721",
+      "file": "file2_2.txt"
+    }
+  ],
+  "Burnet Middle School": [
+    {
+      "lat": 30.36419904753065,
+      "lng": -97.72584790612972,
+      "data": "8401 Hathaway Dr, Austin, TX 78757",
+      "link": "<b>Front Office</b><iframe src='https://www.google.com/maps/embed?pb=!4v1727819576689!6m8!1m7!1sbFJNamvMdMFnuno4Evu91A!2m2!1d30.36413259218206!2d-97.72655463526645!3f91.96222152072417!4f1.8561024111848354!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    {
+      "lat": 30.365176519478205,
+      "lng": -97.72606625162735,
+      "data": "8402 Hathaway Dr, Austin, TX 78757",
+      "file": "file3_1.txt"
+    },
+    {
+      "lat": 30.364976519478205,
+      "lng": -97.72626625162735,
+      "data": "8400 Hathaway Dr, Austin, TX 78757",
+      "file": "file3_2.txt"
+    }
+  ],
+  "Lively Middle School": [
+    {
+      "lat": 30.24297565607399,
+      "lng": -97.75070791771203,
+      "data": "201 E Mary St, Austin, TX 78704",
+      "link": "<b>Front Office</b><iframe src='https://www.google.com/maps/embed?pb=!4v1727820253895!6m8!1m7!1szGOp3JavOnCLMMrEc1ZuPg!2m2!1d30.24290244335755!2d-97.75060969895281!3f25.791368594354733!4f1.5315055530627433!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    {
+      "lat": 30.24447655618444,
+      "lng": -97.74968551051687,
+      "data": "202 E Mary St, Austin, TX 78704",
+      "file": "file4_1.txt"
+    },
+    {
+      "lat": 30.24427655618444,
+      "lng": -97.74988551051687,
+      "data": "200 E Mary St, Austin, TX 78704",
+      "file": "file4_2.txt"
+    }
+  ],
+  "Lamar Middle School": [
+    {
+      "lat": 30.337809918099456,
+      "lng": -97.74093166462477,
+      "data": "6201 Wynona Ave, Austin, TX 78757",
+      "link": "<b>Front Office</b><iframe src='https://www.google.com/maps/embed?pb=!4v1727812562098!6m8!1m7!1s3nryZUON9IuhxmdzJsZHKA!2m2!1d30.33788569580874!2d-97.74126216769828!3f99.686295!4f0!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    {
+      "lat": 30.337909918099456,
+      "lng": -97.74083166462477,
+      "data": "6202 Wynona Ave, Austin, TX 78757",
+      "file": "file5_1.txt"
+    },
+    {
+      "lat": 30.337709918099456,
+      "lng": -97.74103166462477,
+      "data": "6200 Wynona Ave, Austin, TX 78757",
+      "file": "file5_2.txt"
+    }
+  ],
+  "Kealing Middle School": [
+    {
+      "lat": 30.271300963483906,
+      "lng": -97.72204661310334,
+      "data": "1607 Pennsylvania Ave, Austin, TX 7870",
+      "link": "<b>Front Office</b><iframe src='https://www.google.com/maps/embed?pb=!4v1727811162395!6m8!1m7!1sXYd-spD0xY_6hkZ1SUwGAQ!2m2!1d30.27133406856017!2d-97.72196998048568!3f166.00507985504663!4f-0.8093375123647348!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    {
+      "lat": 30.271400963483906,
+      "lng": -97.72194661310334,
+      "data": "1610 Pennsylvania Ave, Austin, TX 7870",
+      "file": "file6_1.txt"
+    },
+    {
+      "lat": 30.271200963483906,
+      "lng": -97.72214661310334,
+      "data": "1604 Pennsylvania Ave, Austin, TX 7870",
+      "file": "file6_2.txt"
+    }
+  ],
+  "Gus Garcia Young Men’s Leadership Academy": [
+    {
+      "lat": 30.310832755547917,
+      "lng": -97.64301965682286,
+      "data": "7414 Johnny Morris Rd, Austin, TX 78724",
+      "link": "<b>Front Entrance (Click view on google maps)</b><iframe src='https://www.google.com/maps/embed?pb=!4v1727813360315!6m8!1m7!1suy1FAB4qPPC_kcCCK7bgnQ!2m2!1d30.3078470275841!2d-97.64334121828382!3f342.974204232565!4f2.939520056436322!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    {
+      "lat": 30.310932755547917,
+      "lng": -97.64291965682286,
+      "data": "7415 Johnny Morris Rd, Austin, TX 78724",
+      "file": "file7_1.txt"
+    },
+    {
+      "lat": 30.310732755547917,
+      "lng": -97.64311965682286,
+      "data": "7413 Johnny Morris Rd, Austin, TX 78724",
+      "file": "file7_2.txt"
+    }
+  ]
+}
