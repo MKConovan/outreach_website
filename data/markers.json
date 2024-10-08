@@ -119,7 +119,7 @@
       "file": "file6_2.txt"
     }
   ],
-  "Gus Garcia Young Men’s Leadership Academy": [
+  "Gus Garcia's Leadership Academy": [
     {
       "lat": 30.310832755547917,
       "lng": -97.64301965682286,
@@ -139,12 +139,12 @@
       "file": "file7_2.txt"
     }
   ],
-  "Goryzcki Middle": [
+  "Gorzycki Middle School": [
     {
-      "lat": 30.36082499841799,
-      "lng": -97.6873900235942,
-      "data": "9504 N Interstate 35 Frontage Rd, Austin, TX 78753",
-      "link": "<b>Front Office</b><iframe src='https://www.google.com/maps/embed?pb=!4v1728409452441!6m8!1m7!1s-5c-GZO5oQdktV_IzRUVQw!2m2!1d30.28558770000073!2d-97.73797075059666!3f275.5011!4f0!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      "lat": 30.213807872368104, 
+      "lng": -97.89232090733651,
+      "data": "7412 W Slaughter Ln, Austin, TX 78749",
+      "link": "<b>Front Office</b><iframe src='https://www.google.com/maps/embed?pb=!4v1728414526880!6m8!1m7!1syuggbev3-_fJTFYSwrXq-g!2m2!1d30.21181628783147!2d-97.89234660315833!3f45.346903759589814!4f4.942480206790378!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
     },
     {
       "lat": 30.36092499841799,
