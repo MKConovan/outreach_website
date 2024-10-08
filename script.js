@@ -41,6 +41,7 @@ document.querySelectorAll('button').forEach(button => {
         const lat = firstLocationData.lat;
         const lng = firstLocationData.lng;
         const add = firstLocationData.data;
+        const label = firstLocationData.label
         const link = firstLocationData.link;
 
         // Update the map view to the first location
@@ -48,20 +49,26 @@ document.querySelectorAll('button').forEach(button => {
         console.info(lat + '' + lng)
         // Add a marker at the main location with a pop-up
         const marker = L.marker([lat, lng]).addTo(markersLayer);
-        marker.bindPopup(`<b>${this.textContent}</b><p>${add}</p>${link}`).openPopup();
+        marker.bindPopup(`
+          <b>${this.textContent}</b>
+          <p><b>Address: </b>${add}</p>
+          <p><b>Marker: </b>${label}</p>
+          <b>Watch the Video First:</b>
+          ${link}`).openPopup();
 
         // Iterate through the rest of the location data, starting from index 1
         for (let i = 1; i < size; i++) {
           const cMarkerData = locationData[i]; // Get the current marker data
           const clat = cMarkerData.lat;
           const clng = cMarkerData.lng;
+          const clabel = cMarkerData.label;
           const cdata = cMarkerData.data;
 
           if (clat && clng) { // Ensure lat and lng are present
             // Create a marker for each subsequent location
             const cmarker = L.marker([clat, clng]).addTo(markersLayer);
             console.log(clat + ", " + clng); // Log the coordinates for debugging
-            cmarker.bindPopup(`<b>${cdata}</b>`); // Popup for the current data point
+            cmarker.bindPopup(`<b>${clabel}</b><p>${cdata}</p>`); // Popup for the current data point
           } else {
             console.warn(`Invalid coordinates for marker: ${cMarkerData}`);
           }
