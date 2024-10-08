@@ -138,5 +138,25 @@
       "data": "7413 Johnny Morris Rd, Austin, TX 78724",
       "file": "file7_2.txt"
     }
-  ]
+  ],
+  "Goryzcki Middle": [
+    {
+      "lat": 30.36082499841799,
+      "lng": -97.6873900235942,
+      "data": "9504 N Interstate 35 Frontage Rd, Austin, TX 78753",
+      "link": "<b>Front Office</b><iframe src='https://www.google.com/maps/embed?pb=!4v1728409452441!6m8!1m7!1s-5c-GZO5oQdktV_IzRUVQw!2m2!1d30.28558770000073!2d-97.73797075059666!3f275.5011!4f0!5f0.7820865974627469' width='300' height='250' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    {
+      "lat": 30.36092499841799,
+      "lng": -97.6872900235942,
+      "data": "9505 N Interstate 35 Frontage Rd, Austin, TX 78753",
+      "file": "file1_1.txt"
+    },
+    {
+      "lat": 30.36072499841799,
+      "lng": -97.6874900235942,
+      "data": "9503 N Interstate 35 Frontage Rd, Austin, TX 78753",
+      "file": "file1_2.txt"
+    }
+  ],
 }
