@@ -154,5 +154,60 @@
       "label": "Teacher Parking Lot",
       "data": "Parking lot for us to use"
     }
+  ],
+
+  "Bailey Middle School": [
+    {
+      "lat": 30.164395317322953,
+      "lng": -97.8723210533055,
+      "label": "place holder",
+      "data": "",
+      "link": ""
+    }
+  ],
+  "Ortega Elementary School": [
+    {
+      "lat": 30.26970783218113,
+      "lng": -97.68544234052828,
+      "label": "place holder",
+      "data": "",
+      "link": ""
+    }
+  ],
+  "Rodriguez Elementary School": [
+    {
+      "lat": 30.200380221593065, 
+      "lng": -97.74687955515759,
+      "label": "place holder",
+      "data": "",
+      "link": ""
+    }
+  ],
+  "Lee Elementary School": [
+    {
+      "lat": 0.0,
+      "lng": 0.0,
+      "label": "place holder",
+      "data": "",
+      "link": ""
+    }
+  ],
+  "UT Elementary School": [
+    {
+      "lat": 30.260323234887736,
+      "lng": -97.71751726538785,
+      "label": "place holder",
+      "data": "",
+      "link": ""
+    }
+  ],
+  "Maplewood Elementary School": [
+    {
+      "lat": 30.292999335457786, 
+      "lng": -97.7143478386204,
+      "label": "place holder",
+      "data": "",
+      "link": ""
+    }
   ]
 }

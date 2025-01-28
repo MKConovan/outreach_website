@@ -19,12 +19,17 @@ h1 {
   left: 5px;
   top: 5px;
   z-index: 1;
-  height: auto;
+  height: 300px;
   width: auto;
   border: black;
   background-color: #73665c;
   display: grid;
   grid-template-columns: repeat(1, auto);
+  overflow-y: auto;
+}
+
+#buttons::-webkit-scrollbar {
+  width: 0px; /* width of the entire scrollbar */
 }
 
 /* From Uiverse.io by adamgiebl */
