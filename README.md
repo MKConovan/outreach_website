@@ -50,7 +50,8 @@ The actual meat of project, so lets break it down
             "lng": longitude of another marker
             "label": what is this marker pointing to?
             "data": why is this marker important
-        }
+        },
+        ...
     ],
     "School 2":[
         ...

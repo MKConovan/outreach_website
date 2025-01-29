@@ -7,9 +7,11 @@ body {
   background-color: #b1aba6;
 }
 
-h1 {
+h1{
   border-radius: 10px;
   background-color: #29739a;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 /* Button styling */
@@ -23,13 +25,49 @@ h1 {
   width: auto;
   border: black;
   background-color: #73665c;
+  border-style: solid;
   display: grid;
   grid-template-columns: repeat(1, auto);
   overflow-y: auto;
 }
-
+#footer{
+  display: flex;
+}
+/* width */
 #buttons::-webkit-scrollbar {
-  width: 0px; /* width of the entire scrollbar */
+  width: 10px;
+}
+
+#buttons::-webkit-scrollbar-track {
+  width: 10px;
+  border: black;
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+#buttons::-webkit-scrollbar-thumb {
+  width: 10px;
+  border: black;
+
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+/* Track */
+#buttons::-webkit-scrollbar-track {
+  background: #0578b6;
+}
+
+/* Handle */
+#buttons::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+#buttons::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
 
 /* From Uiverse.io by adamgiebl */
@@ -60,8 +98,8 @@ button:active {
 
 /* Map container */
 #map-container {
-  width: 98vw;
-  height: 81vh;
+  width: 99vw;
+  height: 88vh;
   margin: 0 auto;
 }
 
@@ -77,6 +115,14 @@ button:active {
 }
 
 #UI {
+  margin-top: 0px;
+  margin-bottom: 0px;
   display: inline-flex;
   position: relative;
+}
+
+#disclaimer{
+  align-self: center;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
