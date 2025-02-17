@@ -158,11 +158,23 @@
 
   "Bailey Middle School": [
     {
-      "lat": 30.164395317322953,
-      "lng": -97.8723210533055,
-      "label": "place holder",
+      "lat": 30.163757589282334,
+      "lng": -97.87300501672141,
+      "label": "Front Entrance",
       "data": "<a href='https://maps.app.goo.gl/N9yRh8ciqfwJ61dV8' target='_blank'>4020 Lost Oasis Hollow, Austin, TX 78739</a>",
-      "link": ""
+      "link": "<video width='300' height='250' controls><source src='asset/Bailey.mp4' type='video/mp4'>Your browser does not support the video tag.</video>"
+    },
+    {
+      "lat": 30.163225373077804, 
+      "lng": -97.87278909894195,
+      "label": "Front-End Parking Lot",
+      "data": "Parking lot for us to use"
+    },
+    {
+      "lat": 30.164219072917394,
+      "lng": -97.87378553953467,
+      "label": "Back Entrance",
+      "data": "Entrance that takes you to the back of the school, additional parking lot."
     }
   ],
   "Ortega Elementary School": [
@@ -171,7 +183,7 @@
       "lng": -97.68544234052828,
       "label": "place holder",
       "data": "<a href='https://maps.app.goo.gl/MSQ3sSTVVvrizm9H7' target='_blank'>1135 Garland Ave, Austin, TX 78721</a>",
-      "link": ""
+      "link": "Video Coming Soon"
     }
   ],
   "Rodriguez Elementary School": [
@@ -180,16 +192,28 @@
       "lng": -97.74687955515759,
       "label": "place holder",
       "data": "<a href='https://maps.app.goo.gl/yme7bGkt4nDPbGQL9' target='_blank'>4400 Franklin Park Dr, Austin, TX 78744</a>",
-      "link": ""
+      "link": "Video Coming Soon"
     }
   ],
   "Lee Elementary School": [
     {
       "lat": 30.29331524221609, 
       "lng": -97.72740511798183,
-      "label": "place holder",
+      "label": "Front Entrance",
       "data": "<a href='https://maps.app.goo.gl/NJkyjzSnf2K2mk329' target='_blank'>3308 Hampton Rd, Austin, TX 78705</a>",
-      "link": ""
+      "link": "<video width='300' height='250' controls><source src='asset/Lee_Elem.mp4' type='video/mp4'>Your browser does not support the video tag.</video>"
+    },
+    {
+      "lat": 30.294056042507588, 
+      "lng": -97.72765534634712,
+      "label": "Teacher Parking Lot",
+      "data": "High traffic parking, will be usually full because teachers tend to take the spots."
+    },
+    {
+      "lat": 30.293798971979655, 
+      "lng": -97.72679301619318,
+      "label": "Street Parking",
+      "data": "Street parking is allowed on this street. Check street signs for sectioned areas"
     }
   ],
   "UT Elementary School": [
@@ -198,7 +222,7 @@
       "lng": -97.71751726538785,
       "label": "place holder",
       "data": "<a href='https://maps.app.goo.gl/RRRgZta8km6FMW2s5' target='_blank'>2200 E 6th St, Austin, TX 78702</a>",
-      "link": ""
+      "link": "Video Coming Soon"
     }
   ],
   "Maplewood Elementary School": [
@@ -207,7 +231,7 @@
       "lng": -97.7143478386204,
       "label": "place holder",
       "data": "<a href='https://maps.app.goo.gl/tg2ezf5k2k75cQBr5' target='_blank'>3808 Maplewood Ave, Austin, TX 78722</a>",
-      "link": ""
+      "link": "Video Coming Soon"
     }
   ]
 }
