@@ -33,6 +33,15 @@ h1{
 #footer{
   display: flex;
 }
+#disclaimer{
+  color: rgb(124, 0, 0);
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-left: 10%;
+}
+#feedback{
+  margin-left: auto;
+}
 #button-label{
   color: white;
 }
@@ -124,8 +133,3 @@ button:active {
   position: relative;
 }
 
-#disclaimer{
-  color: rgb(124, 0, 0);
-  margin-bottom: 0px;
-  margin-top: 0px;
-}
