@@ -28,7 +28,7 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   background-color: #b1aba6;
-  width: 97.5vw;
+  width: 98.5vw;
 }
 
 h1{
@@ -146,8 +146,8 @@ button:active {
 
 /* Map container */
 #map-container {
-  width: 98vw;
-  height: 88vh;
+  width: 99vw;
+  height: 80vh;
   margin: 0 auto;
 }
 
@@ -158,7 +158,7 @@ button:active {
   left: 0;
   top: 0;
   align-self: center;
-  width: 97.5vw;
+  width: 98.5vw;
   height: 100%;
 }
 
