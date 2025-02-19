@@ -30,6 +30,8 @@ h1{
   left: 1%;
   top: 1%;
   z-index: 1;
+  min-width: 100px;
+  min-height: 100px;
   height: 33%;
   width: 17%;
   border: black;
