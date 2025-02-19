@@ -30,8 +30,8 @@ h1{
   left: 1%;
   top: 1%;
   z-index: 1;
-  min-width: 100px;
   min-height: 100px;
+  min-width: 100px;
   height: 33%;
   width: 17%;
   border: black;
@@ -98,7 +98,7 @@ button {
   margin-bottom: 5px;
   background: #ffffff;
   font-family: inherit;
-  padding: 0.6em 1.3em;
+  padding: 0.6em;
   font-weight: 900;
   font-size: 60%;
   border: 5% solid black;
@@ -106,6 +106,8 @@ button {
   box-shadow: 0.1em 0.1em;
   cursor: pointer;
   align-items: center;
+  width: 100%;
+  height: auto;
 }
 
 button:hover {
