@@ -1,4 +1,27 @@
 /* styles.css */
+@media screen and (orientation: portrait) {
+  .rotate-warning {
+      display: block;
+      position: fixed;
+      top: 90%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: rgba(0, 0, 0, 0.8);
+      color: white;
+      padding: 20px;
+      font-size: 18px;
+      text-align: center;
+      z-index: 9999;
+      width: 80%;
+      border-radius: 10px;
+  }
+}
+
+@media screen and (orientation: landscape) {
+  .rotate-warning {
+      display: none;
+  }
+}
 
 /* General page styles */
 body {
