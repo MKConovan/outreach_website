@@ -234,4 +234,13 @@
       "link": "Video Coming Soon"
     }
   ]
-}
+},
+  "Covington Middle School": [
+    {
+      "lat": 30.212583935563966,
+      "lng": -97.83455464623349,
+      "label": "place holder",
+      "data": "<a href='https://maps.app.goo.gl/9K2q4krDGN33Vsxx7' target='_blank'>3700 Convict Hill Rd, Austin, TX 78749</a>",
+      "link": "Video Coming Soon"
+    }
+  ]
